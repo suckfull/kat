@@ -1,4 +1,4 @@
-#Kat
+# Kat
 
 A cat clone that sucks more.
 
