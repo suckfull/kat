@@ -10,7 +10,7 @@ Kat is a cat clone that purposefully sucks. It has a 20% chance to not work, its
 
 To install kat, you need `make` installed on your system. Then you just need clone the repo, and run:
 ```bash
-make && sudo make clean install
+make && sudo make install && make clean
 ```
 in the root of the project to install kat on your system.
 
@@ -30,7 +30,7 @@ If you want to contribute to this project for some reason, fork this repo and ma
 
 ## License
 
-This project follows a GPLv3 license. So if you change the source code and want to publish it, please make it FOSS because we genuinely believe FOSS software make making bad software easier. And if you don't, we will find you.
+This project follows a GPLv3 license. So if you change the source code and want to publish it, please make it FOSS because we genuinely believe FOSS software makes making bad software easier. And if you don't, we will find you.
 
 ## About us
 
