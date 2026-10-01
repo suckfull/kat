@@ -16,7 +16,7 @@ in the root of the project to install kat on your system.
 
 ## Uninstallation
 
-If you decided kat was a stupid concept (it is), and wanted to uninstall it, you just need ti run:
+If you decided kat was a stupid concept (it is), and wanted to uninstall it, you just need to run:
 ```bash
 sudo make uninstall
 ```
@@ -24,7 +24,7 @@ from the project root to completely uninstall it from your system.
 
 ## Contribution
 
-If you to contribute to this project for some reason, fork this repo and make a pull request for us to add the changes. Just note that:
+If you want to contribute to this project for some reason, fork this repo and make a pull request for us to add the changes. Just note that:
 - we do not accept buggy code.
 - and we do not accept code that makes the project suck less.
 
