@@ -1,0 +1,8 @@
+kat
+*.out
+*.o
+.clang-format
+
+.vscode/
+.idea/
+suckless/
