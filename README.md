@@ -36,8 +36,4 @@ This project follows a GPLv3 license. So if you change the source code and want 
 
 For more Information, please visit [gnu.org](https://gnu.org) because it's the exact opposite of who we are.
 
-best
-
 suckfull.org
-```
-```
