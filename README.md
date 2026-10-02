@@ -4,7 +4,7 @@ A cat clone that sucks more.
 
 ## Information
 
-Kat is a cat clone that purposefully sucks. It has a 20% chance to not work, its forcefully slower, and has useless flags. The reason we made this is because we believe there are so many horribly made software that making better ones would not fix it. So we made kat and suckfull.org to make clean, simple software that intentionally bad because you can't profit off bad software.
+Kat is a cat clone that purposefully sucks. It has a 20% chance to not work, its forcefully slower, and has useless flags. The reason we made this is because we believe there are so many horribly made software that making better ones would not fix it. So we made kat and suckfull.org to make clean, simple software that is intentionally bad because you can't profit off bad software.
 
 ## Installation
 
@@ -20,7 +20,7 @@ If you decided kat was a stupid concept (it is), and wanted to uninstall it, you
 ```bash
 sudo make uninstall
 ```
-from the project root to completely uninstall it from your system.
+in the project root to completely uninstall it from your system.
 
 ## Contribution
 
@@ -34,6 +34,6 @@ This project follows a GPLv3 license. So if you change the source code and want 
 
 ## About us
 
-For more Information, please visit [gnu.org](https://gnu.org) because it's the exact opposite of who we are.
+For more Information, please visit [suckless.org](https://suckless.org) because it's the exact opposite of who we are.
 
-suckfull.org
+The suckfull organization...
